@@ -12,8 +12,8 @@ app_home = "/app/overview"
 add_to_apps_screen = [
 	{
 		"name": "hrms",
-		"logo": "/assets/hrms/images/frappe-hr-logo.svg",
-		"title": "Frappe HR",
+		"logo": "/assets/hrms/images/technavy-logo.png",
+		"title": "PeopleCore",
 		"route": "/app/overview",
 		"has_permission": "hrms.hr.utils.check_app_permission",
 	}
