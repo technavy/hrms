@@ -12,7 +12,7 @@ add_to_apps_screen = [
 		"name": "hrms",
 		"logo": "/assets/hrms/images/technavy-logo.png",
 		"title": "PeopleCore",
-		"route": "/app/hr",
+		"route": "/app/overview",
 		"has_permission": "hrms.hr.utils.check_app_permission",
 	}
 ]
